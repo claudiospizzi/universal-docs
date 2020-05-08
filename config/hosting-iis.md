@@ -43,7 +43,7 @@ The Application Pool Identity is very important for PowerShell Universal as this
 **Identity Requirements**
 
 * [ ] Full Read/Write access the PowerShell Universal Application Folder we extracted in **Step 2**
-* [ ] Full Read/Write access to the PowerShell Universal Database : Default: _C:\ProgramData\Universal Automation_
+* [ ] Full Read/Write access to the PowerShell Universal Database : Default: _C:\ProgramData\UniversalAutomation_
 
 {% hint style="info" %}
 The Default Database location can be customized via the PowerShell Universal `appsettings.json` file if desired.
